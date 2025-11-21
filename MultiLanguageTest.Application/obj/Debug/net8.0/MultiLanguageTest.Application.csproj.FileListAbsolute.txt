@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Application.deps.json
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Application.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Application.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Domain.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Persistence.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Domain.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\bin\Debug\net8.0\MultiLanguageTest.Persistence.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLan.CAFD2EA5.Up2Date
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\refint\MultiLanguageTest.Application.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\ref\MultiLanguageTest.Application.dll

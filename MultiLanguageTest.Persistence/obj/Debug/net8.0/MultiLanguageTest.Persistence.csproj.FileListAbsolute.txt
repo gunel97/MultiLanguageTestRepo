@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\bin\Debug\net8.0\MultiLanguageTest.Persistence.deps.json
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\bin\Debug\net8.0\MultiLanguageTest.Persistence.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\bin\Debug\net8.0\MultiLanguageTest.Persistence.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\bin\Debug\net8.0\MultiLanguageTest.Domain.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\bin\Debug\net8.0\MultiLanguageTest.Domain.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLan.B59E8DAC.Up2Date
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\refint\MultiLanguageTest.Persistence.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\MultiLanguageTest.Persistence.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Persistence\obj\Debug\net8.0\ref\MultiLanguageTest.Persistence.dll

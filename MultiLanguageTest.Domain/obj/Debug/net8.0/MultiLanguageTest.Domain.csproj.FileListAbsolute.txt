@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\bin\Debug\net8.0\MultiLanguageTest.Domain.deps.json
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\bin\Debug\net8.0\MultiLanguageTest.Domain.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\bin\Debug\net8.0\MultiLanguageTest.Domain.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\MultiLanguageTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\MultiLanguageTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\MultiLanguageTest.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\MultiLanguageTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\MultiLanguageTest.Domain.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\refint\MultiLanguageTest.Domain.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\MultiLanguageTest.Domain.pdb
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Domain\obj\Debug\net8.0\ref\MultiLanguageTest.Domain.dll

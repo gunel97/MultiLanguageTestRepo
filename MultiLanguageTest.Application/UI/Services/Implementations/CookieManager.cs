@@ -13,7 +13,7 @@ namespace MultiLanguageTest.Application.UI.Services.Implementations
 {
     public class CookieManager : ICookieService
     {
-        private const string BROWSER_ID_KEY = "browserId";
+        //private const string BROWSER_ID_KEY = "browserId";
 
         private readonly ILanguageService _languageService;
        // private readonly ICurrencyService _currencyService;

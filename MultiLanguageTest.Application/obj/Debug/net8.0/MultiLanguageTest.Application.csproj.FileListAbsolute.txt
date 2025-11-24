@@ -15,3 +15,4 @@ C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application
 C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\refint\MultiLanguageTest.Application.dll
 C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.pdb
 C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\ref\MultiLanguageTest.Application.dll
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Application\obj\Debug\net8.0\MultiLanguageTest.Application.sourcelink.json

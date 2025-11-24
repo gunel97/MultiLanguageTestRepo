@@ -171,3 +171,4 @@ C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Mvc\obj\Deb
 C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Mvc\obj\Debug\net8.0\en-us\MultiLanguageTest.Mvc.resources.dll
 C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Mvc\obj\Debug\net8.0\MultiLanguageTest.Mvc.Resources.SharedResources.az.resources
 C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Mvc\obj\Debug\net8.0\MultiLanguageTest.Mvc.Resources.SharedResources.en-US.resources
+C:\Users\Lenovo\source\repos\MultiLanguageTest.Mvc\MultiLanguageTest.Mvc\obj\Debug\net8.0\MultiLanguageTest.Mvc.sourcelink.json

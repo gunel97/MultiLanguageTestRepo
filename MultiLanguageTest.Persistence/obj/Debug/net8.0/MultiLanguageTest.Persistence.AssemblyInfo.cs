@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiLanguageTest.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e56f5816d7793d39974be33e8e6d091e79184d9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiLanguageTest.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiLanguageTest.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
